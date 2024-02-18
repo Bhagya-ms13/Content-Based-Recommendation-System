@@ -1,2 +1,2 @@
-Content Based Movie Recommendation System
+#Content Based Movie Recommendation System
 This project is a content-based movie recommendation system designed to suggest similar movies based on user input. Unlike collaborative filtering methods, which recommend items based on user similarities, this system suggests movies similar to the one entered by the user. It analyzes movie features such as genres, cast, directors, and plot summaries to make recommendations.
